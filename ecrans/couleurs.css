@@ -89,3 +89,10 @@
   color: var(--encre);
 }
 
+}
+
+.ecran button:hover {
+  background: var(--accent);
+  color: var(--encre);
+}
+
